@@ -172,8 +172,8 @@ export default {
     default: null
   },
   localIdeographFontFamily: {
-    type: String,
-    default: null
+    type: Boolean,
+    default: false
   },
   collectResourceTiming: {
     type: Boolean,
